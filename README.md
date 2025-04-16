@@ -65,7 +65,7 @@ The page also displays the employee's hiring date, the last review date, and the
 
 
 
-# The report page titled (*Attrition*) offers a detailed analysis of employee attrition trends within the company, highlighting key factors such as department-specific attrition rates, travel frequency, overtime workload, tenure, and yearly fluctuations to provide actionable insights for improving employee retention strategies.
+### The report page titled (*Attrition*) offers a detailed analysis of employee attrition trends within the company, highlighting key factors such as department-specific attrition rates, travel frequency, overtime workload, tenure, and yearly fluctuations to provide actionable insights for improving employee retention strategies.
 
 ### Department-Specific Attrition Rates:
 * The Human Resources department has the highest attrition rate at (21.1%), with Recruiters experiencing the highest attrition within the department at (39.1%). Notably, the Human Resources department also has the fewest active employees in the company, totaling only (45).
@@ -84,6 +84,7 @@ The page also displays the employee's hiring date, the last review date, and the
 
 ### Overall Trends:
 * Attrition rates have fluctuated between 10% and 20% over the years, with notable peaks in 2017 and 2021. 
+
 
 
 
