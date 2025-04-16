@@ -12,7 +12,7 @@ This project involved exploring the HR dataset of a fictitious company, (Atlas L
 
 
 
-The report consists of 4 pages:
+### The report consists of 4 pages:
 
 The report page titled "Overview" provides Overview about the workforce at Atlas Labs. Here are some notable observations:
 
