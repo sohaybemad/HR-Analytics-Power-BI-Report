@@ -52,7 +52,6 @@ The major roles in each department are as follows:
 * The gender distribution appears balanced across all age groups, signaling no significant disparity.
 
 ### Ethnicity and Salary:
-
 * The workforce is diverse, with White employees forming the majority.
 * There are differences in average salaries across ethnicities, with White employees earning the most on average. with average salary of ($116 K)
 
@@ -74,22 +73,17 @@ The page also displays the employee's hiring date, the last review date, and the
 * The Technology department has the lowest attrition rate among all departments at (14.5%), with Data Scientists within the department experience a higher attrition rate of (25.1%).
 
 ### Impact of Travel Frequency:
-
 * Most employees at the company travel occasionally ("Some Travel"). However, when examining attrition rates, employees who travel frequently have the highest rate at (25.3%).
 
 ### Overtime Workload:
-
 * Employees working overtime exhibit an attrition rate of 31.6%, as opposed to 10.4% for those not working overtime. Meaning that High overtime workloads may be causing burnout.
 
 ### Years at Company:
-
 * Attrition is highest among employees in their first two years at the company. But the rate decreases significantly as employees spend more years at the company, dropping to nearly zero for those with 10 years of experience.
 
 
 ### Overall Trends:
-
 * Attrition rates have fluctuated between 10% and 20% over the years, with notable peaks in 2017 and 2021. 
-
 
 
 
