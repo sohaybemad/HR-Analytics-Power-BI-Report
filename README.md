@@ -14,30 +14,29 @@ This project involved exploring the HR dataset of a fictitious company, (Atlas L
 
 ### The report consists of 4 pages:
 
-The report page titled "Overview" provides Overview about the workforce at Atlas Labs. Here are some notable observations:
+The report page titled **Overview** provides Overview about the workforce at Atlas Labs. Here are some notable observations:
 
-General Workforce Statistics:
-Total Employees: 1,326 individuals has been hired since the beginning of Atlas Lab.
+### General Workforce Statistics:
+* Total Employees: 1,326 individuals has been hired since the beginning of Atlas Lab.
 
-Active Employees: 1,108 are currently active.
+* Active Employees: 1,108 are currently active.
 
-Inactive Employees: 218 employees are inactive, resulting in an attrition rate of 16.4%, which is noteworthy and might require closer evaluation.
+* Inactive Employees: 218 employees are inactive, resulting in an attrition rate of 16.4%, which is noteworthy and might require closer evaluation.
 
-Employee Hiring Trends (2012–2022):
+### Employee Hiring Trends (2012–2022):
 Employee hiring numbers have fluctuated over the years. Notable years include:
 
-2022: Saw a peak in hiring (114 remained, while 25 left).
-
-2017: The organization hired the least number of employees (84 stayed, while 9 left).
+* 2022: Saw a peak in hiring (114 remained, while 25 left).
+* 2017: The organization hired the least number of employees (84 stayed, while 9 left).
 
 Attrition trends vary but seem consistent over the years, raising questions about whether external factors or internal policies influence employee retention.
 
-Active Employees by Department:
-The Technology Department dominates in workforce size, with (736) active employees.
+### Active Employees Rate by Department:
+* Technology: Highest at 85%, indicating strong engagement.
 
-The Sales Department follows with (327) active employees.
+* Sales: 80%, slightly lower but still robust.
 
-Human Resources has a much smaller team, with just (45) active employees.
+* Human Resources: Lowest at 79%, signaling potential for improvement.
 
 Active Employees by Department and Job Roles:
 The major roles in each department are as follows:
