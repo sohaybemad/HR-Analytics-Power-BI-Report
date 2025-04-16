@@ -18,9 +18,7 @@ The report page titled **Overview** provides Overview about the workforce at Atl
 
 ### General Workforce Statistics:
 * Total Employees: 1,326 individuals has been hired since the beginning of Atlas Lab.
-
 * Active Employees: 1,108 are currently active.
-
 * Inactive Employees: 218 employees are inactive, resulting in an attrition rate of 16.4%, which is noteworthy and might require closer evaluation.
 
 ### Employee Hiring Trends (2012–2022):
@@ -33,20 +31,14 @@ Attrition trends vary but seem consistent over the years, raising questions abou
 
 ### Active Employees Rate by Department:
 * Technology: Highest at 85%, indicating strong engagement.
-
 * Sales: 80%, slightly lower but still robust.
-
 * Human Resources: Lowest at 79%, signaling potential for improvement.
 
-Active Employees by Department and Job Roles:
+### Active Employees by Department and Job Roles:
 The major roles in each department are as follows:
-
-Technology: Majority are Software Engineers
-
-Sales: Majority are Sales Executives
-
-Human Resources: Majority are HR Executives
-
+* Technology: Majority are Software Engineers
+* Sales: Majority are Sales Executives
+* Human Resources: Majority are HR Executives
 
 
 The report page titled "Demographics" provides a wealth of information about Atlas LAB's workforce demographics. Here are the key insights:
