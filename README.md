@@ -88,26 +88,20 @@ The page also displays the employee's hiring date, the last review date, and the
 
 
 
-### Recommendations to reduce attrition:
+# Recommendations to reduce attrition:
 
-Focus on High-Attrition Departments:
-
+### Focus on High-Attrition Departments:
 Conduct exit interviews or surveys to understand the specific causes of attrition in the Human Resources and Sales departments as they have high attrition rate. Introduce tailored retention programs for these teams.
 
-Reconsider Travel Demands:
+### Reconsider Travel Demands:
 Employees with frequent travel exhibit the highest attrition rates. To address this, evaluate the demands and expectations placed on frequent travelers. Providing better support, such as increased flexibility, travel perks, or options for remote collaboration, may help alleviate the challenges faced by this group and improve retention rates.
 
-Reevaluate Overtime Policies:
-
+### Reevaluate Overtime Policies:
 High overtime workloads may be causing burnout. Implement measures to better distribute work and encourage a healthier work-life balance.
 
-Support New Employees:
-
+### Support New Employees:
 Attrition is especially high within the first two years. Enhance onboarding processes, assign mentors, and provide regular feedback and growth opportunities for new hires.
 
-Analyze Past Peaks:
-
+### Analyze Past Peaks:
 Investigate factors contributing to the 2017 and 2021 peaks in attrition. Use these insights to mitigate future risk and stabilize the attrition rate.
-
-
 
