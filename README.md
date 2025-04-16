@@ -13,7 +13,7 @@ This project focuses on importing, analyzing, and visualizing Human Resources da
 
 ### The report consists of 4 pages:
 
-The report page titled **Overview** provides Overview about the workforce at Atlas Labs. Here are some notable observations:
+# The report page titled **Overview** provides Overview about the workforce at Atlas Labs. Here are some notable observations:
 
 ### General Workforce Statistics:
 * Total Employees: 1,326 individuals has been hired since the beginning of Atlas Lab.
@@ -40,7 +40,7 @@ The major roles in each department are as follows:
 * Human Resources: Majority are HR Executives
 
 
-The report page titled "Demographics" provides a wealth of information about Atlas LAB's workforce demographics. Here are the key insights:
+# The report page titled "Demographics" provides a wealth of information about Atlas LAB's workforce demographics. Here are the key insights:
 
 ### Age Distribution:
 * A significant portion of employees (790) are aged 20-29, while other age groups, particularly those under 20 (70 employees) and over 50 (7 employees), are much smaller.
@@ -58,7 +58,7 @@ The report page titled "Demographics" provides a wealth of information about Atl
 
 
 
-The report page titled "Performance Tracker" enables the HR team to continuously monitor an individual employee's performance scores through yearly performance reviews.
+# The report page titled "Performance Tracker" enables the HR team to continuously monitor an individual employee's performance scores through yearly performance reviews.
 These reviews assess key metrics, including Job Satisfaction, Relationship Satisfaction, Environment Satisfaction, Work-Life Balance, as well as Self Ratings and Manager Ratings.
 
 The page also displays the employee's hiring date, the last review date, and the next scheduled review date.
@@ -66,37 +66,35 @@ The page also displays the employee's hiring date, the last review date, and the
 
 
 
-This report page titled "Attrition" offers a detailed analysis of employee attrition trends within the company, highlighting key factors such as department-specific attrition rates, travel frequency, overtime workload, tenure, and yearly fluctuations to provide actionable insights for improving employee retention strategies.
+# The report page titled "Attrition" offers a detailed analysis of employee attrition trends within the company, highlighting key factors such as department-specific attrition rates, travel frequency, overtime workload, tenure, and yearly fluctuations to provide actionable insights for improving employee retention strategies.
 
-Department-Specific Attrition Rates:
-The Human Resources department has the highest attrition rate at (21.1%), with Recruiters experiencing the highest attrition within the department at (39.1%). Notably, the Human Resources department also has the fewest active employees in the company, totaling only (45).
+### Department-Specific Attrition Rates:
+* The Human Resources department has the highest attrition rate at (21.1%), with Recruiters experiencing the highest attrition within the department at (39.1%). Notably, the Human Resources department also has the fewest active employees in the company, totaling only (45).
+* The Sales department ranks second in attrition rate at (19.9%), with Sales Representatives showing the highest attrition within the department at (39.7%).
+* The Technology department has the lowest attrition rate among all departments at (14.5%), with Data Scientists within the department experience a higher attrition rate of (25.1%).
 
-The Sales department ranks second in attrition rate at (19.9%), with Sales Representatives showing the highest attrition within the department at (39.7%).
+### Impact of Travel Frequency:
 
-The Technology department has the lowest attrition rate among all departments at (14.5%), with Data Scientists within the department experience a higher attrition rate of (25.1%).
+* Most employees at the company travel occasionally ("Some Travel"). However, when examining attrition rates, employees who travel frequently have the highest rate at (25.3%).
 
-Impact of Travel Frequency:
+### Overtime Workload:
 
-Most employees at the company travel occasionally ("Some Travel"). However, when examining attrition rates, employees who travel frequently have the highest rate at (25.3%).
+* Employees working overtime exhibit an attrition rate of 31.6%, as opposed to 10.4% for those not working overtime. Meaning that High overtime workloads may be causing burnout.
 
-Overtime Workload:
+### Years at Company:
 
-Employees working overtime exhibit an attrition rate of 31.6%, as opposed to 10.4% for those not working overtime. Meaning that High overtime workloads may be causing burnout.
-
-Years at Company:
-
-Attrition is highest among employees in their first two years at the company. But the rate decreases significantly as employees spend more years at the company, dropping to nearly zero for those with 10 years of experience.
+* Attrition is highest among employees in their first two years at the company. But the rate decreases significantly as employees spend more years at the company, dropping to nearly zero for those with 10 years of experience.
 
 
-Overall Trends:
+### Overall Trends:
 
-Attrition rates have fluctuated between 10% and 20% over the years, with notable peaks in 2017 and 2021. 
+* Attrition rates have fluctuated between 10% and 20% over the years, with notable peaks in 2017 and 2021. 
 
 
 
 
 
-Recommendations to reduce attrition:
+### Recommendations to reduce attrition:
 
 Focus on High-Attrition Departments:
 
