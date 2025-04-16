@@ -1,12 +1,14 @@
-Power BI Case Study: HR Analytics for Atlas Labs This project includes importing, analyzing, and visualizing Human Resources data using Power BI. This project involved exploring the HR dataset of a fictitious company, (Atlas Labs), to identify trends and insights. Key highlights include:
+# Power BI Case Study: HR Analytics for Atlas Labs
 
-Conducting exploratory data analysis to uncover patterns and insights in employee data.
+This project includes importing, analyzing, and visualizing Human Resources data using Power BI.
+This project involved exploring the HR dataset of a fictitious company, (Atlas Labs), to identify trends and insights.
 
-Using DAX to create meaningful and impactful visualizations.
+### Key highlights include:
 
-Investigating attrition trends and the factors influencing employee retention, providing actionable recommendations to reduce attrition.
-
-Designing and delivering a professional, branded Power BI report for stakeholders.
+* Conducting exploratory data analysis to uncover patterns and insights in employee data.
+* Using DAX to create meaningful and impactful visualizations.
+* Investigating attrition trends and the factors influencing employee retention, providing actionable recommendations to reduce attrition.
+* Designing and delivering a professional, branded Power BI report for stakeholders.
 
 
 
