@@ -42,22 +42,19 @@ The major roles in each department are as follows:
 
 The report page titled "Demographics" provides a wealth of information about Atlas LAB's workforce demographics. Here are the key insights:
 
-Age Distribution:
+### Age Distribution:
+* A significant portion of employees (790) are aged 20-29, while other age groups, particularly those under 20 (70 employees) and over 50 (7 employees), are much smaller.
 
-A significant portion of employees (790) are aged 20-29, while other age groups, particularly those under 20 (70 employees) and over 50 (7 employees), are much smaller.
+### Marital Status:
+* 42.99% of employees are single, forming the largest demographic group by marital status. Married and divorced employees follow at 36.35% and 20.66%, respectively.
 
-Marital Status:
+### Gender over age groups:
+* The gender distribution appears balanced across all age groups, signaling no significant disparity.
 
-42.99% of employees are single, forming the largest demographic group by marital status. Married and divorced employees follow at 36.35% and 20.66%, respectively.
+### Ethnicity and Salary:
 
-Gender over age groups:
-
-The gender distribution appears balanced across all age groups, signaling no significant disparity.
-
-Ethnicity and Salary:
-
-The workforce is diverse, with White employees forming the majority.
-There are differences in average salaries across ethnicities, with White employees earning the most on average. with average salary of ($116 K)
+* The workforce is diverse, with White employees forming the majority.
+* There are differences in average salaries across ethnicities, with White employees earning the most on average. with average salary of ($116 K)
 
 
 
